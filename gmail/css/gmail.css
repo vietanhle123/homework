@@ -1,0 +1,77 @@
+@import url("https://fonts.google.com/specimen/Roboto?query=roboto");
+
+.main{
+    border: 2px solid thistle;
+    box-shadow: 2px;
+    margin: 76px 385px 76px 385px;
+    width: 754px;
+    height: 608px;
+    border-radius: 0.7rem;
+}
+.logo-gg{
+    width: 100px;
+    height: 25px;
+    float: left;
+    }
+h3{
+        font-size: 16px;
+        padding-left: 40px;
+    }
+.logo-contain{
+        padding-left: 40px;
+    }
+.account{
+    max-width: 225px;
+    max-height: 300px;
+    float:right;
+ 
+}
+
+.form-group-name{
+    padding-left: 40px;
+    padding-top: 37px;
+}
+.form-group-email{
+    padding-top: 25px;
+    padding-left: 40px;
+    
+}
+.form-group-email2{
+    width: 375px;
+}
+.form-group-password{
+    padding-top: 64px;
+    padding-left: 40px;
+}
+.form-button{
+    padding-top: 65px;
+    padding-left: 300px;
+}
+button{
+    width: 98px;
+    height: 35px;
+    background-color: rgb(51, 51, 199);
+    border-radius: 0.6rem;
+    color: cornsilk;
+}
+input{
+    height: 32px;
+    border-radius: 0.3rem;
+}
+.p-email{
+    font-size: 12px;
+    padding-left: 32px;
+}
+.p-password{
+    font-size: 12px;
+   
+}
+a{
+    border: 1px solid rgb(240, 233, 233);
+    background-color: rgb(220, 214, 214);
+    color: mintcream;
+    border-radius: 3px;
+    padding-left: 800px;
+    display: flex;
+    justify-content: center;
+}
