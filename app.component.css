@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;400;700&display=swap');
+
+* {
+  font-family: "Poppins", sans-serif;
+  box-sizing: border-box;
+}
+
+p {
+  color: gray;
+}
+
+#box1 {
+  background-color: rgb(73, 73, 206);
+  height: 40px;
+  width: 300px;
+  color: #fff;
+  border-radius: 4px;
+  position: relative;
+}
+
+#box1 #box1-content {
+  color: #fff;
+  margin: 10px 10px;
+  font-size: 14px;
+  position: absolute;
+}
+
+#box2 {
+  background-color: rgb(57, 145, 57);
+  width: 100px;
+  height: 30px;
+  color: #fff;
+  margin-top: 20px;
+  border-radius: 4px;
+  position: relative;
+}
+
+#box2 #box2-content {
+  color: #fff;
+  position: absolute;
+  margin: 6px 10px;
+  font-size: 12px;
+}
+
+#box3 {
+  border: 1px solid rgb(87, 87, 211);
+  height: 200px;
+  width: 300px;
+  margin: 20px 0;
+  border-radius: 4px;
+  position: relative;
+}
+
+#box3 #box3-header {
+  position: absolute;
+  height: 30px;
+  width: 300px;
+  color: rgb(75, 74, 74);
+}
+
+#box3-header ul {
+  margin: 4px 0 0 40px;
+}
+
+#box3-header ul li {
+  display: inline-block;
+  margin: 0px 0px;
+  padding: 0 8px;
+  font-size: 13px;
+}
+
+hr {
+    background-color: rgb(87, 87, 211);
+}
+
+#box3-content {
+    margin: 37px 0;
+    background-color: #ccc;
+    height: 40px;
+}
+
+#box3-content #product1 {
+    padding: 5px 5px;
+    font-size: 14px;
+}
+
+#box3-content ul {
+    margin: -23px 0 0 40px;
+}
+
+#box3-content ul li {
+    display: inline-block;
+    font-size: 15px;
+    padding: 0 5px;
+}
