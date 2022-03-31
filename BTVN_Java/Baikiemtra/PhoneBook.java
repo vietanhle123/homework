@@ -24,6 +24,7 @@ public class PhoneBook extends Phone{
         if (!timThay) {
           PhoneList.add(name + "," + phone);
         }
+          return null;
       }
     
       @Override
