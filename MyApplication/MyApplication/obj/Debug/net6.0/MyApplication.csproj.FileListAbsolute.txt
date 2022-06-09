@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\MyApplication\MyApplication\obj\Debug\net6.0\MyApplication.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\MyApplication\MyApplication\obj\Debug\net6.0\MyApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\MyApplication\MyApplication\obj\Debug\net6.0\MyApplication.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\MyApplication\MyApplication\obj\Debug\net6.0\MyApplication.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\MyApplication\MyApplication\obj\Debug\net6.0\MyApplication.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\demo_3\MyApplication\MyApplication\obj\Debug\net6.0\MyApplication.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\demo_3\MyApplication\MyApplication\obj\Debug\net6.0\MyApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Máy tính\demo_3\MyApplication\MyApplication\obj\Debug\net6.0\MyApplication.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\demo_3\MyApplication\MyApplication\obj\Debug\net6.0\MyApplication.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Máy tính\demo_3\MyApplication\MyApplication\obj\Debug\net6.0\MyApplication.csproj.CoreCompileInputs.cache
